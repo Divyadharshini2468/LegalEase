@@ -1,0 +1,55 @@
+altair==6.3.0
+annotated-doc==0.0.5
+annotated-types==0.8.0
+anyio==4.15.1
+cachetools==7.2.0
+certifi==2026.7.22
+cffi==2.1.1
+charset-normalizer==3.5.1
+click==8.5.0
+cryptography @ file:///home/builder/.termux-build/python-cryptography/src
+distlib==0.4.3
+fastapi==0.99.1
+filelock==4.0.4
+fpdf==1.7.2
+google-ai-generativelanguage==0.6.15
+google-api-core==2.33.0
+google-api-python-client==2.200.0
+google-auth==2.58.1
+google-auth-httplib2==0.4.2
+google-generativeai==0.8.6
+googleapis-common-protos==1.75.0
+grpcio @ file:///home/builder/.termux-build/python-grpcio/src
+grpcio-status==1.71.2
+h11==0.16.0
+httplib2==0.32.0
+idna==3.20
+itsdangerous==2.2.0
+lxml @ file:///home/builder/.termux-build/python-lxml/src
+numpy @ file:///home/builder/.termux-build/python-numpy/src/dist/numpy-2.4.4-cp313-cp313-android_aarch64.whl#sha256=1ae053b54524edf1054aabe7c12e005fb453dc2fd0d17353c7a2056d07a11755
+packaging==26.3
+pillow @ file:///home/builder/.termux-build/python-pillow/src
+platformdirs==4.12.0
+proto-plus==1.28.2
+protobuf==5.29.6
+pyarrow @ file:///home/builder/.termux-build/libarrow-cpp/src/python/dist/pyarrow-24.0.0-cp313-cp313-android_aarch64.whl#sha256=1bd4abda29e91acfb9d7e3d949e3f24e0d6c616d089a6422a687418220841cc2
+pyasn1==0.6.4
+pyasn1_modules==0.4.2
+pycparser==3.0
+pydantic==1.10.26
+pyparsing==3.3.3
+python-discovery==1.6.1
+python-docx==1.2.0
+python-dotenv==1.2.3
+requests==2.34.2
+starlette==0.27.0
+streamlit==1.64.0
+toml==0.10.2
+tqdm==4.70.1
+typing-inspection==0.4.4
+typing_extensions==4.16.0
+uritemplate==4.2.0
+urllib3==2.8.0
+uvicorn==0.54.0
+virtualenv==21.13.0
+websockets==17.1
